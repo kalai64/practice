@@ -56,6 +56,7 @@ function Update() {
                     onChange={(e)=> setName(e.target.value)}
                     />
                 </div>
+                
                 <div className='mb-2'>
                     <label className='block mb-2'>Email</label>
                     <input 
