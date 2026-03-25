@@ -14,6 +14,7 @@ function Home() {
             console.log(error)
         }
     }
+    
 
     const handleDelete = async(id)=>{
         try {
