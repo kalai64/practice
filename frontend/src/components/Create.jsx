@@ -35,12 +35,14 @@ function Create() {
                     type="text" 
                     placeholder='Enter the name'
                     className='px-3 py-1 w-full border rounded-md'
+                    
                     onChange={(e)=> setName(e.target.value)}
                     />
                 </div>
                 
                 <div className='mb-2'>
                     <label className='block mb-2'>Email</label>
+
                     <input 
                     type="email" 
                     placeholder='Enter email'
