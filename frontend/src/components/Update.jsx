@@ -68,6 +68,7 @@ function Update() {
                     onChange={(e)=> setEmail(e.target.value)}
                     />
                 </div>
+                
                 <button type='submit' className='px-3 py-1 bg-blue-500 hover:bg-blue-600 rounded-md text-white'>
                     Update
                 </button>

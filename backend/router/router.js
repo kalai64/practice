@@ -9,4 +9,5 @@ router.get('/getbyId/:id', ctr.getbyId)
 router.put('/updateData/:id', ctr.updateData)
 router.delete('/deleteData/:id', ctr.deleteData)
 
+
 export default router
