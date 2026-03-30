@@ -53,6 +53,7 @@ function Create() {
                 <button type='submit' className='px-3 py-1 bg-blue-500 hover:bg-blue-600 rounded-md text-white'>
                     Create
                 </button>
+                
             </form>
         </div>
     </div>
