@@ -11,7 +11,6 @@ function Update() {
     const [email,setEmail] = useState('')
 
     const navigate = useNavigate()
-    
 
     const getById = async()=>{
         try {
