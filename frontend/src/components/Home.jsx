@@ -46,7 +46,6 @@ function Home() {
                     </Link>
                 </div>
 
-
                 <div className='overflow-x-auto'>
                     <table className='w-full border-collapse'>
                         <thead>
@@ -85,6 +84,10 @@ function Home() {
                         </tbody>
 
                     </table>
+                </div>
+
+                <div className='bg-white'>
+
                 </div>
 
             </div>
