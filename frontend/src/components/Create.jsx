@@ -34,8 +34,7 @@ function Create() {
                     <input 
                     type="text" 
                     placeholder='Enter the name'
-                    className='px-3 py-1 w-full border rounded-md'
-                    
+                    className='px-3 py-1 w-full border rounded-md'  
                     onChange={(e)=> setName(e.target.value)}
                     />
                 </div>
