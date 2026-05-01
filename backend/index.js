@@ -6,6 +6,7 @@ import router from './router/router.js'
 
 dotenv.config()
 
+
 const app = express()
 
 app.use(cors());
