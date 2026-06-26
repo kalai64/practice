@@ -21,7 +21,6 @@ function Update() {
             console.log(error)
         }
     }
-    
 
     const handleSubmit = async(e)=>{
         e.preventDefault()
