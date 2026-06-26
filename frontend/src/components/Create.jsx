@@ -21,7 +21,6 @@ function Create() {
         }
     }
     
-
   return (
     <>
     <div className='min-h-screen bg-sky-500 flex justify-center items-center p-6'>
