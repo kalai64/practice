@@ -22,7 +22,8 @@ function Home() {
         } catch (error) {
             console.log(error)
         }
-    }    
+    }   
+     
 
     useEffect(() => {
         getDetails()
