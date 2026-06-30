@@ -23,7 +23,6 @@ function Home() {
             console.log(error)
         }
     }   
-     
 
     useEffect(() => {
         getDetails()
