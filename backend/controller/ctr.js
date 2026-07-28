@@ -12,6 +12,7 @@ const getDetails = async(req,res)=>{
         res.status(500).send({
             success:false,
             message:"Falied to fetch data's"
+            
         })
     }
 }
