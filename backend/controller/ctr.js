@@ -15,7 +15,6 @@ const getDetails = async(req,res)=>{
         })
     }
 }
-
 const addUser = async(req,res)=>{
     try {
         const users = await userSchema.create(req.body)
